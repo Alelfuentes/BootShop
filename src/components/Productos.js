@@ -6,6 +6,9 @@ const style ={
     display:'flex',
     flexDirection: 'row',
     justifyContent: 'space-between',
+    position: 'relative',
+    alignItems: 'center',
+    
   }
 }
 
