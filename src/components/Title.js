@@ -9,7 +9,7 @@ const style = {
 class Title extends Component{
   render(){
     return(
-      <h1 style={style.title}>Botas</h1>
+      <h1 className="text-3xl font-bold tracking-tight text-gray-900">Botas</h1>
     )
   }
 }
